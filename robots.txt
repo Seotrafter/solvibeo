@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /about.html
+Sitemap: https://solvibeo.com/sitemap.xml
